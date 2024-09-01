@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "img_imagePlaceholder.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
